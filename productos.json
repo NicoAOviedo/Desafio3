@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "title": "Prod1",
+      "description": "Desc1",
+      "price": 34,
+      "code": "567",
+      "stock": 4,
+      
+      "thumbnail":"Thumb1"
+    },
+    {
+        "id": 2,
+        "title": "Prod2",
+        "description": "Desc2",
+        "price": 456,
+        "code": "004",
+        "stock": 12,
+        
+        "thumbnail":"Thumb2"
+    },
+    {
+      "id": 3,
+      "title": "Prod3",
+      "description": "Desc3",
+      "price": 222,
+      "code": "567",
+      "stock": 111,
+      
+      "thumbnail":"Thumb3"
+    },
+    {
+        "id":4,
+        "title": "Prod4",
+        "description": "Desc4",
+        "price": 345,
+        "code": "004",
+        "stock": 34,
+        
+        "thumbnail":"Thumb4"
+    },
+    {
+      "id": 5,
+      "title": "Prod5",
+      "description": "Desc5",
+      "price": 87,
+      "code": "567",
+      "stock": 96,
+      
+      "thumbnail":"Thumb5"
+      
+    },
+    {
+        "id":6,
+        "title": "Prod6",
+        "description": "Desc6",
+        "price":65,
+        "code": "004",
+        "stock": 349,
+        
+        "thumbnail":"Thumb6"
+    
+    }
+  ]
